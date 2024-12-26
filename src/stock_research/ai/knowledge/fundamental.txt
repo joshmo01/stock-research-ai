@@ -1,0 +1,33 @@
+Fundamental analysis involves evaluating a company's intrinsic value by examining related economic and financial factors. Key metrics include:
+
+1. Valuation Metrics:
+- Price-to-Earnings (P/E) Ratio
+- Price-to-Book (P/B) Ratio
+- Price-to-Sales (P/S) Ratio
+- Enterprise Value/EBITDA
+
+2. Financial Health:
+- Current Ratio
+- Debt-to-Equity Ratio
+- Return on Equity (ROE)
+- Return on Assets (ROA)
+
+3. Growth Metrics:
+- Revenue Growth
+- Earnings Growth
+- Free Cash Flow Growth
+- Dividend Growth
+
+4. Profitability:
+- Gross Margin
+- Operating Margin
+- Net Profit Margin
+- EBITDA Margin
+
+Consider industry averages and historical trends when analyzing these metrics. Look for:
+- Consistent growth in key metrics
+- Strong competitive advantages
+- Healthy balance sheet
+- Sustainable business model
+- Quality management team
+- Economic moat
