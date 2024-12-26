@@ -1,0 +1,32 @@
+Technical analysis focuses on studying price movements and trading volumes to identify patterns and trends. Key concepts include:
+
+1. Trend Analysis:
+- Primary, Secondary, and Minor Trends
+- Support and Resistance Levels
+- Trendlines and Channels
+- Price Patterns (Head & Shoulders, Double Tops/Bottoms)
+
+2. Moving Averages:
+- Simple Moving Average (SMA)
+- Exponential Moving Average (EMA)
+- Moving Average Convergence Divergence (MACD)
+- Golden Cross and Death Cross
+
+3. Momentum Indicators:
+- Relative Strength Index (RSI)
+- Stochastic Oscillator
+- Rate of Change (ROC)
+- Money Flow Index (MFI)
+
+4. Volume Analysis:
+- Volume Trends
+- On-Balance Volume (OBV)
+- Volume Price Trend (VPT)
+- Accumulation/Distribution Line
+
+Consider multiple timeframes and confirm signals using different indicators. Look for:
+- Trend confirmation
+- Volume confirmation
+- Divergences
+- Overbought/Oversold conditions
+- Key level breakouts/breakdowns

@@ -1,0 +1,1 @@
+"""Configuration package for stock research application."""

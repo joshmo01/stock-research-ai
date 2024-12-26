@@ -1,0 +1,34 @@
+Sentiment analysis examines market psychology and public perception through news, social media, and other sources. Key aspects include:
+
+1. News Analysis:
+- Major News Events
+- Press Releases
+- Earnings Reports
+- Industry News
+- Regulatory Changes
+
+2. Social Media Sentiment:
+- Twitter Mentions
+- Reddit Discussion
+- StockTwits Activity
+- Social Media Trends
+
+3. Market Sentiment Indicators:
+- Fear & Greed Index
+- Put/Call Ratio
+- VIX (Volatility Index)
+- Short Interest
+
+4. Institutional Activity:
+- Insider Trading
+- Institutional Ownership
+- Analyst Coverage
+- Short Selling Activity
+
+Consider the reliability of sources and overall market context. Look for:
+- Sentiment shifts
+- Consensus views
+- Contrarian indicators
+- Market positioning
+- Information credibility
+- Source reliability
